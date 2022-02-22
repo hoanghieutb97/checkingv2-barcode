@@ -38,7 +38,8 @@ function Body(props) {
     let checkFilein = <CheckFileIn skus={Items} />;
     if (props.Type === "keyChain normal" 
     || props.Type === "keyChain mirror" 
-    || props.Type === "keyChain Alunium" 
+    || props.Type === "keyChain Alunium nho" 
+    || props.Type === "keyChain Alunium to" 
     || props.Type === "mica carOrnament 2m" 
     || props.Type === "ornament su 2m" 
     || props.Type === "wood orrnament 2m"

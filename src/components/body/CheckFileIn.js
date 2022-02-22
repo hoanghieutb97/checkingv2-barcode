@@ -21,7 +21,7 @@ function CheckFileIn(props) {
         setArrNameFile(arr);
         setFileClick([]);
     }
-
+console.log(ArrNameFile);
     let copyText = (param) => {
         copy(param)
     }
